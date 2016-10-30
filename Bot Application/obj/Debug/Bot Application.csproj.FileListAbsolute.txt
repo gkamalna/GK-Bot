@@ -1,0 +1,39 @@
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Bot Application1.dll.config
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Bot Application1.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Bot Application1.pdb
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Autofac.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Chronic.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Newtonsoft.Json.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Net.Http.Formatting.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Web.Http.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Web.Http.WebHost.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Autofac.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\Newtonsoft.Json.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Net.Http.Formatting.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Web.Http.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\System.Web.Http.WebHost.xml
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\obj\Debug\Bot Application1.dll
+c:\users\gouthami kamalnath\documents\visual studio 2015\Projects\Bot Application\Bot Application\obj\Debug\Bot Application1.pdb
